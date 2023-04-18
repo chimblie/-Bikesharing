@@ -1,5 +1,8 @@
 Bikesharing Analysis Report
+<<<<<<< HEAD
+=======
 
+>>>>>>> 3e20e57e967b83079610774660e8ec276e0c0a72
 1.	Overview of the analysis:
 o	The purpose of this project is to help Kate and I explore the idea of a bike-sharing company in our hometown of Des Moines like the NYC Citibike program. The analysis we are going to do will help us predict if the bike-share company idea could work in Des Moines, Iowa.
 
@@ -8,6 +11,29 @@ o	To start our analysis, we decided to figure out how the bike-sharing business 
 o	We used the data from the Citi Bike program in New York City. Below are the images of all the analysis we have done and the explanation. We use Pandas to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes.
 Image 1: Checkout Times for Users 
 The graph shows the length of time that bikes are checked out for all riders. The image shows that the hours of 4, 5, and 6 are the busiest hours of the day.
+<<<<<<< HEAD
+ 
+Image 2: Checkout Times by Gender
+This graph shows the length of time that bikes are checked out for each gender. It shows that the male checkout more than other gender.
+ 
+Image 3: Trips by Weekday for Each Hour
+This graph shows the number of bike trips by weekday for each hour of the day as a heatmap. It looks like 7am through 9am, Monday- Friday, are the busiest hours.
+ 
+Image 4: Trips by Gender (Weekday per Hour)
+This graph shows the number of bike trips by gender for each hour of each day of the week as a heatmap. It looks like Sunday is the busiest day of the week.
+ 
+Image 5: User Trips by Gender by Weekday
+This graph shows a heatmap of the number of bike trips broken down by gender for each day of the week by each Usertype. The male subscribers make more trips than females subscribers.
+ 
+Image 6: Bike Utilization
+The graph shows the bike id and the tripduration. 
+
+ 
+Image 7: User Type. 
+The graph shows that there is more subscriber customer than non-subscriber.
+ 
+
+=======
  ![image](https://user-images.githubusercontent.com/121005128/232787052-2d7ff0aa-8762-4d1e-b345-b4b4243f9459.png)
 
 Image 2: Checkout Times by Gender
@@ -33,14 +59,21 @@ The graph shows the bike id and the tripduration.
 Image 7: User Type. 
 The graph shows that there is more subscriber customer than non-subscriber.
  ![image](https://user-images.githubusercontent.com/121005128/232787643-783377ca-3def-4f55-a0c8-08336d6cb1c0.png)
+>>>>>>> 3e20e57e967b83079610774660e8ec276e0c0a72
 
 3	Summary: 
 
 o	To summarize, Tableau is a very powerful data visualization tool. It helps simplifying raw data into a simple, easy, and understandable format.  With Tableau, we can create worksheets, dashboards, and stories to display data in a professional way that is easy to share with any audience. 
 o	Below are the two additional visualizations that we performed with the given dataset.
 The graph shows that there are more male customers than other customers.
+<<<<<<< HEAD
+ 
+The graph shows the start Station Longitude and Latitude
+ 
+=======
  ![image](https://user-images.githubusercontent.com/121005128/232787812-386cf6dd-7d69-4275-8758-74d6436c4eaa.png)
 
 The graph shows the start Station Longitude and Latitude
  ![image](https://user-images.githubusercontent.com/121005128/232788030-7214088d-7f62-4003-848d-c2882ddbfb0e.png)
 
+>>>>>>> 3e20e57e967b83079610774660e8ec276e0c0a72
