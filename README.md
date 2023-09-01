@@ -1,7 +1,5 @@
 Bikesharing Analysis Report
-<<<<<<< HEAD
-=======
-
+This project was done on Tableau 
 >>>>>>> 3e20e57e967b83079610774660e8ec276e0c0a72
 1.	Overview of the analysis:
 o	The purpose of this project is to help Kate and I explore the idea of a bike-sharing company in our hometown of Des Moines like the NYC Citibike program. The analysis we are going to do will help us predict if the bike-share company idea could work in Des Moines, Iowa.
